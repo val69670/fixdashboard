@@ -1,0 +1,27 @@
+    
+
+     <!-- /app/index.php : Deux changements -->
+             
+
+
+
+     <!-- ... -->
+
+                <form action="#">
+                  <div class="parent-div">
+
+                    <!-- lien à remplacer -->
+                    <a href="#" class="mfont u-align-center u-border-1 border_nb u-btn u-btn-round u-button-style u-custom-color-8 u-radius-50 u-text-custom-color-7 u-text-hover-custom-color-4 u-btn-1">Modifier l'image</a>
+                    <!-- lien à remplacer -->
+
+                    <input type="file" id="fileUpload" name="image">
+                  </div>
+                </form>
+
+              </div>
+            </div>
+             
+              <!-- ajout class "mbadd" dans div ci-dessous -->
+            <div class="u-container-style u-layout-cell u-size-22 u-layout-cell-2 mbadd">
+
+      <!-- ... -->
